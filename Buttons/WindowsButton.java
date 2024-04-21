@@ -10,7 +10,8 @@ import java.awt.event.ActionListener;
 import task1.Buttons.Button.Buttons;
 /**
  *
- * @author faiqa
+ * @author zainnajfi
+ 
  */
 public class WindowsButton {
     
