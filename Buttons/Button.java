@@ -6,7 +6,7 @@ package task1.Buttons;
 
 /**
  *
- * @author faiqa
+ * @author zainnajfi
  */
 public class Button {
     public interface Buttons {
